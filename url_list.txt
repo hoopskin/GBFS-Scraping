@@ -1,0 +1,3 @@
+Bird Scooter Locations and Battery level: https://gbfs.bird.co/dc
+Lime LA Main Page: https://data.lime.bike/api/partners/v1/gbfs/los_angeles/gbfs.json
+Master list of GBFS feeds: https://raw.githubusercontent.com/NABSA/gbfs/master/systems.csv
