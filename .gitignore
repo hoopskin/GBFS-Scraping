@@ -1,5 +1,6 @@
 *.json
-pruned_data/*/*.csv
+*.csv
+!feedURLdata_3.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
